@@ -1,5 +1,6 @@
 # ok
 
+```mermaid
 graph TD
     subgraph "告警生命周期"
     direction TB
@@ -25,3 +26,4 @@ graph TD
     Ignored -- 自动/手动关闭 --> Closed
 
     end
+```
